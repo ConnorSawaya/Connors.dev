@@ -1,6 +1,6 @@
-# evangan.com
+# Connors.dev
 
-Hey there! This is my personal portfolio website built with SvelteKit and deployed as a static site.
+Hey there! This is my personal portfolio website built with SvelteKit and deployed as a static site. Forked from Evan Gan
 
 ## Quick Start
 
