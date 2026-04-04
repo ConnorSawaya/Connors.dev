@@ -1,30 +1,26 @@
 tagOrder:
-  - Highlights
-  - All Projects
   - Hackathons
-  - Robotics
   - Programming
-  - Builds
+  - Highlights
 
 projects:
   - date: Mar 7, 2026
     name: Stang Hacks
     tagline: >-
-      Won Best UI/UX out of 450+ participants with Ride2Rider, a smart school
-      transportation coordination platform.
+      Ride2Rider – Won Best UI/UX out of 450+ participants
     description: >-
-      At Stang Hacks, our team built Ride2Rider, a platform designed to reduce
-      congestion during school drop-off and pick-up. We used the Google Maps API
-      to help optimize routes and make transportation more efficient for students
-      and parents.
+      At Stang Hacks, our team created **Ride2Rider**, a smart platform to make
+      school transportation more efficient and safer. Using the Google Maps API, 
+      we optimized routes to reduce congestion during drop-off and pick-up times.
 
-      The app also includes chat and commenting features so riders can coordinate
-      in real time. We focused heavily on making the interface clean and easy to
-      use, which helped us win Best UI/UX out of over 450 participants.
+      The app also includes **chat and comment features** so riders can coordinate 
+      in real-time. We focused heavily on making the interface clean, simple, 
+      and easy to navigate. This attention to design helped us win **Best UI/UX 
+      out of over 450 participants**.
 
-      This project was a great experience in building something practical that
-      solves a real-world problem while also focusing on design, usability, and
-      real-world logistics.
+      Ride2Rider was a practical, real-world project that taught me how to combine 
+      functionality with excellent user experience.
+
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Ride2Rider
     videoURL: https://youtu.be/M6Smstte16U
@@ -35,24 +31,21 @@ projects:
   - date: Mar 7, 2026
     name: Lancer Hacks
     tagline: >-
-      Placed 2nd with GlobalBridge Connect, a platform helping people find
-      essential local resources.
+      GlobalBridge Connect – 2nd Place
     description: >-
-      At Lancer Hacks, we built GlobalBridge Connect and placed 2nd overall. The
-      goal of the project was to help people in underserved communities find
-      important resources like food, healthcare, education, and jobs.
+      At Lancer Hacks, we built **GlobalBridge Connect**, a platform designed to help 
+      underserved communities access essential resources like food, healthcare, 
+      education, and jobs. Our project placed **2nd overall** at the hackathon.
 
-      We created a website that brings this information into one place and makes
-      it easy to search. The frontend was built with HTML, CSS, and JavaScript,
-      and we used Python on the backend to handle data and search functionality.
+      We developed a simple, easy-to-use website with **HTML, CSS, and JavaScript** 
+      for the frontend and **Python** for backend search and data handling. Most of 
+      the resource data was manually entered and verified to ensure accuracy. 
 
-      Most of the data on local organizations and services was entered manually
-      to ensure accuracy and reliability. We also integrated Claude to speed up
-      development in a few areas.
+      This project taught me how to integrate **full-stack development with real-world data**, 
+      organize complex information effectively, and create a solution that genuinely 
+      helps people. We also used Claude to speed up some development tasks, which was a 
+      great experience in combining AI tools with manual work.
 
-      Through this project, I learned a lot about building full-stack applications,
-      organizing data effectively, and creating an interface that’s accessible and
-      helpful for disadvantaged communities.
     thumbnail: /thumbnails/placeholder.svg
     websiteURL: https://devpost.com/software/global-bridge-connect
     categories:
@@ -62,15 +55,17 @@ projects:
   - date: Jan 16, 2026
     name: Divergent
     tagline: >-
-      Placed 4th at a competitive hackathon hosted at the Microsoft SF office.
+      Placed 4th at Microsoft SF Hackathon
     description: >-
-      Competed in the Divergent hackathon at the Microsoft San Francisco office,
-      where our team placed 4th overall.
+      Competed at the **Divergent hackathon** hosted at the Microsoft San Francisco office, 
+      where our team placed **4th overall**. 
 
-      We worked under tight time constraints to design and build a working
-      prototype, focusing on both functionality and presentation. This project
-      was a great experience in fast-paced development, teamwork, and pitching
-      ideas effectively.
+      The hackathon was fast-paced, requiring us to ideate, design, and build a working prototype 
+      in a short amount of time. Our focus was on both functionality and presentation, which 
+      helped us achieve a strong ranking among other competitive teams.
+
+      This experience taught me valuable lessons in **rapid development, teamwork, and problem-solving under pressure**.
+
     thumbnail: /thumbnails/placeholder.svg
     categories:
       - Hackathons
@@ -79,19 +74,19 @@ projects:
   - date: Dec 14, 2025
     name: BellHacks
     tagline: >-
-      First hackathon project – built an AI-powered product health scanner.
+      Vita-Health – First hackathon project
     description: >-
-      BellHacks was my first hackathon, hosted at my school, Bellarmine College
-      Preparatory.
+      **BellHacks** was my first hackathon, held at my school, Bellarmine College Preparatory. 
+      Our team created **Vita-Health**, an AI-powered product health scanner.
 
-      Our team built Vita-Health, a project where users can scan a product
-      barcode and get a health score along with information about the product.
-      We used the Gemini API to analyze ingredients and generate simple,
+      Users can scan a product barcode and instantly get a **health score** and information about 
+      the product. We integrated the **Gemini API** to analyze ingredients and generate clear, 
       understandable insights.
 
-      This project introduced me to hackathons and real-world development. I
-      learned how to quickly design, build, and present a working idea while
-      integrating an API and building a usable front-end interface.
+      This project was my first real experience building and presenting an idea under time constraints, 
+      giving me exposure to **hackathon-style development and teamwork**. It also helped me learn 
+      how to quickly turn a concept into a working application.
+
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
