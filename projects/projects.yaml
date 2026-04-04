@@ -23,7 +23,8 @@ projects:
       use, which helped us win Best UI/UX out of over 450 participants.
 
       This project was a great experience in building something practical that
-      solves a real-world problem while also focusing on design and usability.
+      solves a real-world problem while also focusing on design, usability, and
+      real-world logistics.
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Ride2Rider
     videoURL: https://youtu.be/M6Smstte16U
@@ -45,10 +46,13 @@ projects:
       it easy to search. The frontend was built with HTML, CSS, and JavaScript,
       and we used Python on the backend to handle data and search functionality.
 
-      A lot of the data was entered and checked manually to make sure it was
-      accurate. We also used Claude to speed up parts of development. Through
-      this project, I learned a lot about building full-stack apps and working
-      with real-world data.
+      Most of the data on local organizations and services was entered manually
+      to ensure accuracy and reliability. We also integrated Claude to speed up
+      development in a few areas.
+
+      Through this project, I learned a lot about building full-stack applications,
+      organizing data effectively, and creating an interface that’s accessible and
+      helpful for disadvantaged communities.
     thumbnail: /thumbnails/placeholder.svg
     websiteURL: https://devpost.com/software/global-bridge-connect
     categories:
@@ -64,8 +68,9 @@ projects:
       where our team placed 4th overall.
 
       We worked under tight time constraints to design and build a working
-      prototype, focusing on both functionality and presentation. This was a
-      great experience in fast-paced development and teamwork.
+      prototype, focusing on both functionality and presentation. This project
+      was a great experience in fast-paced development, teamwork, and pitching
+      ideas effectively.
     thumbnail: /thumbnails/placeholder.svg
     categories:
       - Hackathons
@@ -84,8 +89,9 @@ projects:
       We used the Gemini API to analyze ingredients and generate simple,
       understandable insights.
 
-      This project introduced me to hackathons and real-world development, and
-      helped me learn how to quickly build and present a working idea.
+      This project introduced me to hackathons and real-world development. I
+      learned how to quickly design, build, and present a working idea while
+      integrating an API and building a usable front-end interface.
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
