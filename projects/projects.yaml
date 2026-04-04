@@ -7,7 +7,7 @@ projects:
   - date: Mar 7, 2026
     name: Stang Hacks
     tagline: >-
-      Ride2Rider – Won Best UI/UX out of 450+ participants
+      Ride2Rider: Smart route optimization and chat platform for school transit (Winner: Best UI/UX out of 450+)
     description: >-
       At Stang Hacks, our team created **Ride2Rider**, a smart platform to make
       school transportation more efficient and safer. Using the Google Maps API, 
@@ -20,7 +20,6 @@ projects:
 
       Ride2Rider was a practical, real-world project that taught me how to combine 
       functionality with excellent user experience.
-
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Ride2Rider
     videoURL: https://youtu.be/M6Smstte16U
@@ -31,21 +30,19 @@ projects:
   - date: Mar 7, 2026
     name: Lancer Hacks
     tagline: >-
-      GlobalBridge Connect – 2nd Place
+      GlobalBridge Connect: Full-stack resource platform for underserved communities (2nd Place Overall)
     description: >-
       At Lancer Hacks, we built **GlobalBridge Connect**, a platform designed to help 
       underserved communities access essential resources like food, healthcare, 
       education, and jobs. Our project placed **2nd overall** at the hackathon.
 
-      We developed a simple, easy-to-use website with **HTML, CSS, and JavaScript** 
-      for the frontend and **Python** for backend search and data handling. Most of 
+      We developed a simple, easy-to-use website with **HTML, CSS, and JavaScript** for the frontend and **Python** for backend search and data handling. Most of 
       the resource data was manually entered and verified to ensure accuracy. 
 
       This project taught me how to integrate **full-stack development with real-world data**, 
       organize complex information effectively, and create a solution that genuinely 
       helps people. We also used Claude to speed up some development tasks, which was a 
       great experience in combining AI tools with manual work.
-
     thumbnail: /thumbnails/placeholder.svg
     websiteURL: https://devpost.com/software/global-bridge-connect
     categories:
@@ -55,7 +52,7 @@ projects:
   - date: Jan 16, 2026
     name: Divergent
     tagline: >-
-      Placed 4th at Microsoft SF Hackathon
+      Rapid-prototyped software solution built under extreme pressure (4th Place at Microsoft SF)
     description: >-
       Competed at the **Divergent hackathon** hosted at the Microsoft San Francisco office, 
       where our team placed **4th overall**. 
@@ -65,7 +62,6 @@ projects:
       helped us achieve a strong ranking among other competitive teams.
 
       This experience taught me valuable lessons in **rapid development, teamwork, and problem-solving under pressure**.
-
     thumbnail: /thumbnails/placeholder.svg
     categories:
       - Hackathons
@@ -74,7 +70,7 @@ projects:
   - date: Dec 14, 2025
     name: BellHacks
     tagline: >-
-      Vita-Health – First hackathon project
+      Vita-Health: AI-powered product scanner using the Gemini API (Debut Hackathon Project)
     description: >-
       **BellHacks** was my first hackathon, held at my school, Bellarmine College Preparatory. 
       Our team created **Vita-Health**, an AI-powered product health scanner.
@@ -86,7 +82,6 @@ projects:
       This project was my first real experience building and presenting an idea under time constraints, 
       giving me exposure to **hackathon-style development and teamwork**. It also helped me learn 
       how to quickly turn a concept into a working application.
-
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
