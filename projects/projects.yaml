@@ -9,40 +9,46 @@ tagOrder:
 projects:
   - date: Mar 7, 2026
     name: Stang Hacks
-    tagline: Best UI/UX (out of 450+ participants) – Ride2Rider
+    tagline: >-
+      Won Best UI/UX out of 450+ participants with Ride2Rider, a smart school
+      transportation coordination platform.
     description: >-
-      Prize: Best UI/UX
+      At Stang Hacks, our team built Ride2Rider, a platform designed to reduce
+      congestion during school drop-off and pick-up. We used the Google Maps API
+      to help optimize routes and make transportation more efficient for students
+      and parents.
 
-      Ride2Rider helps parents save time by optimizing school drop-off and pick-up
-      routes. Using Google Maps API, the app provides safe and efficient
-      transportation for students. Our chat and comment features allow real-time
-      coordination among students and parents, making rides more effective.
+      The app also includes chat and commenting features so riders can coordinate
+      in real time. We focused heavily on making the interface clean and easy to
+      use, which helped us win Best UI/UX out of over 450 participants.
 
-      This project won Best UI/UX out of 450+ participants. It was my experience
-      designing a clean, practical, and user-friendly interface.
-
-      GitHub: https://github.com/ConnorSawaya/Ride2Rider  
-      Video demo: https://youtu.be/M6Smstte16U
+      This project was a great experience in building something practical that
+      solves a real-world problem while also focusing on design and usability.
     thumbnail: /thumbnails/placeholder.svg
+    githubURL: https://github.com/ConnorSawaya/Ride2Rider
+    videoURL: https://youtu.be/M6Smstte16U
     categories:
       - Hackathons
       - Programming
-    githubURL: https://github.com/ConnorSawaya/Ride2Rider
-    videoURL: https://youtu.be/M6Smstte16U
 
   - date: Mar 7, 2026
     name: Lancer Hacks
-    tagline: 2nd Place – GlobalBridge Connect
+    tagline: >-
+      Placed 2nd with GlobalBridge Connect, a platform helping people find
+      essential local resources.
     description: >-
-      Prize: 2nd Place
+      At Lancer Hacks, we built GlobalBridge Connect and placed 2nd overall. The
+      goal of the project was to help people in underserved communities find
+      important resources like food, healthcare, education, and jobs.
 
-      GlobalBridge Connect addresses challenges in underserved communities by
-      providing access to essential resources like food, healthcare, education,
-      and employment. We created a website with an easy-to-use interface using
-      HTML and CSS, with a Python backend to handle data searches. Most data was
-      entered manually for accuracy. Claude was used to speed up coding.
+      We created a website that brings this information into one place and makes
+      it easy to search. The frontend was built with HTML, CSS, and JavaScript,
+      and we used Python on the backend to handle data and search functionality.
 
-      GitHub/Devpost: https://devpost.com/software/global-bridge-connect
+      A lot of the data was entered and checked manually to make sure it was
+      accurate. We also used Claude to speed up parts of development. Through
+      this project, I learned a lot about building full-stack apps and working
+      with real-world data.
     thumbnail: /thumbnails/placeholder.svg
     websiteURL: https://devpost.com/software/global-bridge-connect
     categories:
@@ -51,15 +57,15 @@ projects:
 
   - date: Jan 16, 2026
     name: Divergent
-    tagline: 4th Prize at Microsoft SF Hackathon
+    tagline: >-
+      Placed 4th at a competitive hackathon hosted at the Microsoft SF office.
     description: >-
-      Prize: 4th Place
+      Competed in the Divergent hackathon at the Microsoft San Francisco office,
+      where our team placed 4th overall.
 
-      Competed at Microsoft SF Office where our team built a working prototype
-      under tight time constraints. Focused on functionality, presentation, and
-      teamwork to secure 4th place.
-
-      GitHub: N/A
+      We worked under tight time constraints to design and build a working
+      prototype, focusing on both functionality and presentation. This was a
+      great experience in fast-paced development and teamwork.
     thumbnail: /thumbnails/placeholder.svg
     categories:
       - Hackathons
@@ -67,88 +73,21 @@ projects:
 
   - date: Dec 14, 2025
     name: BellHacks
-    tagline: First Hackathon – AI-powered Health Scanner
+    tagline: >-
+      First hackathon project – built an AI-powered product health scanner.
     description: >-
-      Prize: Participation / First Hackathon
-
       BellHacks was my first hackathon, hosted at my school, Bellarmine College
-      Preparatory. We created Vita-Health, an app that scans product barcodes and
-      generates a health score with information using the Gemini API.
+      Preparatory.
 
-      GitHub: https://github.com/ConnorSawaya/Vita-Health
+      Our team built Vita-Health, a project where users can scan a product
+      barcode and get a health score along with information about the product.
+      We used the Gemini API to analyze ingredients and generate simple,
+      understandable insights.
+
+      This project introduced me to hackathons and real-world development, and
+      helped me learn how to quickly build and present a working idea.
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
       - Hackathons
       - Programming
-
-  - date: Mar 8, 2025
-    name: Polaris Student Management System
-    tagline: Built at 1-day Hackathon to track students efficiently
-    description: >-
-      Polaris is a student management system created to help Achieve Nonprofit
-      track and find students efficiently. Built with Next.js and React, it
-      dynamically structures schedules and student data using AI classification
-      tools for a clean, intuitive dashboard.
-
-      GitHub: https://github.com/ph4iry/polaris
-    thumbnail: /thumbnails/placeholder.svg
-    githubURL: https://github.com/ph4iry/polaris
-    categories:
-      - Programming
-
-  - date: March, 2025
-    name: QR Code Check-in Web App
-    tagline: Flexible QR code check-in for events
-    description: >-
-      Built a QR-based check-in system after a tedious previous hackathon check-in.
-      Uses Google Sheets as a database and automatically verifies waiver completion,
-      sends emails, and updates attendance.
-
-      GitHub: https://github.com/evan-gan/GoogleSheetsQRSignIn
-    thumbnail: /thumbnails/placeholder.svg
-    githubURL: https://github.com/evan-gan/GoogleSheetsQRSignIn
-    categories:
-      - Programming
-
-  - date: Nov 23, 2024
-    name: Counterspell Hackathon
-    tagline: Organized 12-hour hackathon at Microsoft NERD Center
-    description: >-
-      I organized 60-person Boston Counterspell Hackathon, part of a global series.
-      Led organizers, secured venue, handled outreach, and created marketing
-      materials for the event.
-
-    thumbnail: /thumbnails/placeholder.svg
-    websiteURL: https://counterspell.hackclub.com/boston
-    categories:
-      - Hackathons
-
-  - date: Sep - Nov, 2024
-    name: Pumpkin Smash
-    tagline: Designed & built 8-ft pumpkin guillotine
-    description: >-
-      Designed and led construction of an eight-foot guillotine to smash pumpkins
-      for composting. Taught woodworking/power tools to teammates, coordinated
-      a team of 20, and showcased engineering, leadership, and sustainability.
-
-    thumbnail: /thumbnails/placeholder.svg
-    categories:
-      - Builds
-      - Robotics
-
-  - date: Sep 2022 - June 2026
-    name: The LigerBots
-    tagline: FIRST Robotics Team 2877 – COO and lead builder/programmer
-    description: >-
-      Freshman year, I joined my high school's robotics team. Over four years, I
-      programmed the robot, led build/prototyping, created CAD models, and as
-      senior, became COO. Competed at World Championship, winning our division in
-      2025. Won FIRST Impact Award in 2024 and Gracious Professionalism Award in
-      junior year.
-
-    thumbnail: /thumbnails/placeholder.svg
-    websiteURL: ligerbots.org
-    categories:
-      - Robotics
-      - Highlights
