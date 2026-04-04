@@ -18,15 +18,13 @@ projects:
       to help optimize routes and make transportation more efficient for students
       and parents.
 
-
       The app also includes chat and commenting features so riders can coordinate
       in real time. We focused heavily on making the interface clean and easy to
       use, which helped us win Best UI/UX out of over 450 participants.
 
-
       This project was a great experience in building something practical that
       solves a real-world problem while also focusing on design and usability.
-    thumbnail: /thumbnails/rider2rider.svg
+    thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Ride2Rider
     videoURL: https://youtu.be/M6Smstte16U
     categories:
@@ -43,17 +41,15 @@ projects:
       goal of the project was to help people in underserved communities find
       important resources like food, healthcare, education, and jobs.
 
-
       We created a website that brings this information into one place and makes
       it easy to search. The frontend was built with HTML, CSS, and JavaScript,
       and we used Python on the backend to handle data and search functionality.
-
 
       A lot of the data was entered and checked manually to make sure it was
       accurate. We also used Claude to speed up parts of development. Through
       this project, I learned a lot about building full-stack apps and working
       with real-world data.
-    thumbnail: /thumbnails/globalbridge.svg
+    thumbnail: /thumbnails/placeholder.svg
     websiteURL: https://devpost.com/software/global-bridge-connect
     categories:
       - Hackathons
@@ -67,11 +63,10 @@ projects:
       Competed in the Divergent hackathon at the Microsoft San Francisco office,
       where our team placed 4th overall.
 
-
       We worked under tight time constraints to design and build a working
       prototype, focusing on both functionality and presentation. This was a
       great experience in fast-paced development and teamwork.
-    thumbnail: /thumbnails/divergent.svg
+    thumbnail: /thumbnails/placeholder.svg
     categories:
       - Hackathons
       - Programming
@@ -84,16 +79,14 @@ projects:
       BellHacks was my first hackathon, hosted at my school, Bellarmine College
       Preparatory.
 
-
       Our team built Vita-Health, a project where users can scan a product
       barcode and get a health score along with information about the product.
       We used the Gemini API to analyze ingredients and generate simple,
       understandable insights.
 
-
       This project introduced me to hackathons and real-world development, and
       helped me learn how to quickly build and present a working idea.
-    thumbnail: /thumbnails/vitahealth.svg
+    thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
       - Hackathons
