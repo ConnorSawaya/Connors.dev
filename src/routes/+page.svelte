@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Evan Gan</title>
+	<title>Connor Sawaya</title>
 </svelte:head>
 
 <main>
