@@ -16,8 +16,9 @@
 				<img src="/photo of me.jpg" alt="Connor Sawaya" class="profile-photo" />
 				<div class="easter-egg">
 					<p>
-						Fun fact: When I'm not coding, I'm usually rebuilding the engine on my CR85. 
-						Check out my mechanical and hardware builds on 
+						Beyond software, I'm usually at the workbench. I find that a solid understanding of hardware and physical systems always makes for better code.
+						<br /><br />
+						Check out my builds on 
 						<a href="/projects" style="color: rgb(176, 135, 255) !important;">my projects page</a>.
 					</p>
 				</div>
@@ -25,13 +26,16 @@
 			
 			<div class="text-section">
 				<p>
-					Hey, I'm Connor. I'm a high school freshman and developer focused on building software that solves real-world problems. From winning Best UI/UX at Stang Hacks to developing full-stack tools for underserved communities, I love the challenge of turning complex ideas into functional code.
+					Hi, I'm Connor. I’m a freshman at Bellarmine College Preparatory, specializing in software and hardware systems. 
 				</p>
 				<p>
-					I specialize in Python and Java, with a background in building everything from AI-powered health scanners to custom Minecraft utility mods. Beyond the terminal, I’m into mechanical engineering, DIY electronics, and finding ways to make technology more accessible.
+					Much of my work originates from competitive hackathons. I created <strong>Ride2Rider</strong> at Stang Hacks, where it earned the award for Best UI/UX. I also developed <strong>GlobalBridge Connect</strong> during Lancer Hacks. I’ve always enjoyed the fast-paced challenge of bringing an idea to life in a single weekend.
 				</p>
 				<p>
-					Take a look at my recent hackathon wins and technical builds on my <a href="/projects" style="color: rgb(176, 135, 255) !important;">projects page</a>.
+					Beyond individual software, I am an active member of <strong>FTC Robotics Team 23230</strong> and a <strong>Life Scout</strong> in the BSA, currently working toward the rank of <strong>Eagle Scout</strong>. 
+				</p>
+				<p>
+					I find that the practical experience gained in a workshop is as essential to my engineering process as the time spent at a code editor. Take a look at my recent hackathon wins and technical builds on my <a href="/projects" style="color: rgb(176, 135, 255) !important;">projects page</a>.
 				</p>
 			</div>
 		</div>
@@ -39,7 +43,6 @@
 </main>
 
 <style>
-/* Keeping your existing CSS structure as it's solid for this layout */
 	main {
 		min-height: 100vh;
 		padding: 100px 24px 80px;
@@ -47,7 +50,7 @@
 	}
 
 	.container {
-		max-width: 800px;
+		max-width: 900px; /* Slightly wider to accommodate the formal text better */
 		margin: 0 auto;
 	}
 
@@ -77,7 +80,7 @@
 	.photo-container {
 		position: relative;
 		flex-shrink: 0;
-		width: 350px;
+		width: 300px;
 	}
 
 	.profile-photo {
@@ -105,18 +108,20 @@
 		box-shadow: 4px 4px 0px #000000;
 		padding: 24px;
 		display: flex;
+		flex-direction: column;
 		align-items: center;
 		justify-content: center;
 		opacity: 0;
 		pointer-events: none;
 		transition: opacity 0.3s ease;
+		z-index: 10;
 	}
 
 	.easter-egg p {
 		text-align: left;
 		font-weight: 600;
-		font-size: 0.95rem;
-		line-height: 1.6;
+		font-size: 0.9rem;
+		line-height: 1.5;
 		margin: 0;
 		color: #000000;
 	}
@@ -126,40 +131,42 @@
 		pointer-events: auto;
 	}
 
-	.easter-egg a {
-		color: #000000;
-		text-decoration: underline;
-		text-underline-offset: 2px;
-		font-weight: 700;
-	}
-
 	.text-section {
 		flex: 1;
 		min-width: 0;
 	}
 
+	.text-section strong {
+		font-weight: 700;
+		color: #000000;
+	}
+
 	.text-section a {
 		color: rgba(176, 135, 255, 1) !important;
 		text-decoration: underline;
-		font-weight: 600;
+		font-weight: 700;
 	}
 
 	.content p {
-		font-size: 1.25rem;
-		line-height: 1.8;
+		font-size: 1.15rem; /* Adjusted for formal readability */
+		line-height: 1.7;
 		color: #000000;
-		margin: 0 0 24px 0;
+		margin: 0 0 20px 0;
 		font-weight: 500;
 	}
 
-	@media (max-width: 768px) {
+	@media (max-width: 850px) {
 		.content {
 			flex-direction: column;
+			padding: 32px;
 		}
 		.photo-container {
 			width: 100%;
-			max-width: 350px;
-			margin: 0 auto;
+			max-width: 300px;
+			margin: 0 auto 24px;
+		}
+		.page-header h1 {
+			font-size: 2.5rem;
 		}
 	}
 </style>
