@@ -220,7 +220,7 @@
 <svelte:window onkeydown={handleWindowKeydown} />
 
 <svelte:head>
-	<title>Projects - Evan Gan</title>
+	<title>Projects - Connor Sawaya</title>
 </svelte:head>
 
 	<main>
