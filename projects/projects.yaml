@@ -10,15 +10,15 @@ projects:
       Ride2Rider: Smart route optimization and chat platform for school transit (Winner: Best UI/UX out of 450+)
     description: >-
       At Stang Hacks, our team created **Ride2Rider**, a smart platform to make
-      school transportation more efficient and safer. Using the Google Maps API, 
+      school transportation more efficient and safer. Using the Google Maps API,
       we optimized routes to reduce congestion during drop-off and pick-up times.
 
-      The app also includes **chat and comment features** so riders can coordinate 
-      in real-time. We focused heavily on making the interface clean, simple, 
-      and easy to navigate. This attention to design helped us win **Best UI/UX 
+      The app also includes **chat and comment features** so riders can coordinate
+      in real-time. We focused heavily on making the interface clean, simple,
+      and easy to navigate. This attention to design helped us win **Best UI/UX
       out of over 450 participants**.
 
-      Ride2Rider was a practical, real-world project that taught me how to combine 
+      Ride2Rider was a practical, real-world project that taught me how to combine
       functionality with excellent user experience.
     thumbnail: /thumbnails/stang_hacks_2026.webp
     githubURL: https://github.com/ConnorSawaya/Ride2Rider
@@ -26,64 +26,96 @@ projects:
     categories:
       - Hackathons
       - Programming
+      - Highlights
 
   - date: Mar 7, 2026
     name: Lancer Hacks
     tagline: >-
       GlobalBridge Connect: Full-stack resource platform for underserved communities (2nd Place Overall)
     description: >-
-      At Lancer Hacks, we built **GlobalBridge Connect**, a platform designed to help 
-      underserved communities access essential resources like food, healthcare, 
+      At Lancer Hacks, we built **GlobalBridge Connect**, a platform designed to help
+      underserved communities access essential resources like food, healthcare,
       education, and jobs. Our project placed **2nd overall** at the hackathon.
 
-      We developed a simple, easy-to-use website with **HTML, CSS, and JavaScript** for the frontend and **Python** for backend search and data handling. Most of 
-      the resource data was manually entered and verified to ensure accuracy. 
+      We developed a simple, easy-to-use website with **HTML, CSS, and JavaScript**
+      for the frontend and **Python** for backend search and data handling. Most of
+      the resource data was manually entered and verified to ensure accuracy.
 
-      This project taught me how to integrate **full-stack development with real-world data**, 
-      organize complex information effectively, and create a solution that genuinely 
-      helps people. We also used Claude to speed up some development tasks, which was a 
+      This project taught me how to integrate **full-stack development with real-world data**,
+      organize complex information effectively, and create a solution that genuinely
+      helps people. We also used Claude to speed up some development tasks, which was a
       great experience in combining AI tools with manual work.
     thumbnail: /thumbnails/placeholder.svg
     websiteURL: https://devpost.com/software/global-bridge-connect
     categories:
       - Hackathons
       - Programming
+      - Highlights
 
   - date: Jan 16, 2026
     name: Divergent Teams
     tagline: >-
-      Rapid-prototyped software solution built under extreme pressure (4th Place at Microsoft SF)
+      4th Place at Microsoft SF: Built and presented a polished prototype under intense time pressure
     description: >-
-      Competed at the **Divergent hackathon** hosted at the Microsoft San Francisco office, 
-      where our team placed **4th overall**. 
+      At the Divergent hackathon hosted at the **Microsoft San Francisco office**, our team
+      built a working software prototype in a fast-paced, highly competitive environment
+      and placed **4th overall**.
 
-      The hackathon was fast-paced, requiring us to ideate, design, and build a working prototype 
-      in a short amount of time. Our focus was on both functionality and presentation, which 
-      helped us achieve a strong ranking among other competitive teams.
+      The challenge pushed us to move quickly from idea to execution: planning the core
+      concept, building the prototype, refining the design, and preparing a strong final
+      presentation in a short amount of time. I contributed to the development process,
+      helped improve the user experience, and worked with my team to make sure the project
+      felt clear, functional, and presentation-ready.
 
-      This experience taught me valuable lessons in **rapid development, teamwork, and problem-solving under pressure**.
+      This experience strengthened my skills in **rapid prototyping, teamwork, design thinking,
+      and problem-solving under pressure**. It also taught me how important it is to balance
+      speed with quality when building a project for a real audience.
     thumbnail: /thumbnails/placeholder.svg
     categories:
       - Hackathons
       - Programming
+      - Highlights
 
   - date: Dec 14, 2025
     name: BellHacks
     tagline: >-
       Vita-Health: AI-powered product scanner using the Gemini API (Debut Hackathon Project)
     description: >-
-      **BellHacks** was my first hackathon, held at my school, Bellarmine College Preparatory. 
+      **BellHacks** was my first hackathon, held at my school, Bellarmine College Preparatory.
       Our team created **Vita-Health**, an AI-powered product health scanner.
 
-      Users can scan a product barcode and instantly get a **health score** and information about 
-      the product. We integrated the **Gemini API** to analyze ingredients and generate clear, 
+      Users can scan a product barcode and instantly get a **health score** and information about
+      the product. We integrated the **Gemini API** to analyze ingredients and generate clear,
       understandable insights.
 
-      This project was my first real experience building and presenting an idea under time constraints, 
-      giving me exposure to **hackathon-style development and teamwork**. It also helped me learn 
-      how to quickly turn a concept into a working application.
+      This project was my first real experience building and presenting an idea under time
+      constraints, giving me exposure to **hackathon-style development and teamwork**. It also
+      helped me learn how to quickly turn a concept into a working application and how to present.
     thumbnail: /thumbnails/placeholder.svg
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
       - Hackathons
       - Programming
+      - Highlights
+
+  - date: Mar 2026
+    name: StockQuest
+    tagline: >-
+      Duolingo-style gamified platform that teaches kids stock trading through lessons and simulations
+    description: >-
+      **StockQuest** is a gamified educational web app designed to teach kids the basics of
+      stock trading in a simple, fun, and interactive way. The project uses a **React, Vite,
+      and Tailwind CSS** frontend with a **Node.js and Express** backend.
+
+      The app includes learning modules, interactive quizzes, XP, hearts, streaks, badges,
+      a leaderboard, and a simulated stock trading system with fake stocks and market events.
+      It also includes parental controls, making it safer and more appropriate for younger users.
+
+      This project helped me practice building a more complete full-stack application with
+      frontend pages, reusable components, backend routes, authentication, database seeding,
+      and gamified user progression.
+    thumbnail: /thumbnails/placeholder.svg
+    githubURL: https://github.com/ConnorSawaya/StockQuest
+    categories:
+      - Programming
+      - Highlights
