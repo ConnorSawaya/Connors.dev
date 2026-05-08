@@ -100,6 +100,7 @@ projects:
       work with a team, and explain our project to others.
     thumbnail: /thumbnails/bell_hacks_thumbnail.webp
     githubURL: https://github.com/ConnorSawaya/Vita-Health
+    websiteURL: https://bellhacks.com/
     categories:
       - Hackathons
       - Programming
