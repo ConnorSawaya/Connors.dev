@@ -98,7 +98,7 @@ projects:
       This project was my first real experience building and presenting a project
       during a hackathon. It taught me how to turn an idea into a working app quickly,
       work with a team, and explain our project to others.
-    thumbnail: /thumbnails/placeholder.svg
+    thumbnail: /thumbnails/bell_hacks_thumbnail.webp
     githubURL: https://github.com/ConnorSawaya/Vita-Health
     categories:
       - Hackathons
