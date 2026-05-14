@@ -1,7 +1,9 @@
 tagOrder:
   - Highlights
+  - Robotics
   - Hackathons
   - Programming
+  
   
 
 projects:
@@ -104,4 +106,29 @@ projects:
     categories:
       - Hackathons
       - Programming
+
+      
+      - date: Jan 18, 2026
+    name: Bellarmine FTC Team 23230
+    tagline: >-
+      Cheesy Wheels: Bellarmine FTC robotics team with a 7-2 season record and Finalist Alliance Captain finish
+    description: >-
+      As part of **Bellarmine Robotics FTC Team 23230, Cheesy Wheels**, I worked
+      on manufacturing, CAD, and assembly and wiring.I helped make parts for the robot, 
+      worked on CAD designs, assembled parts of he robot, and helped wire components.
+
+      During the season, Team 23230 competed at **Santa Clara QT #2**, where we
+      finished qualification matches ranked **1st out of 16 teams** with a perfect
+      **5-0-0 qualification record**. We became the **captain of the 1st alliance**
+      in playoffs and finished as a **Finalist Alliance Captain**.
+
+      Overall, our team finished the event with a **7-2-0 record**, with
+      strong performances in both qualification and playoff matches. Being part
+      of the team helped me learn more about robot design, manufacturing, CAD,
+      assembly, wiring, teamwork, testing, and competing under pressure.
+    thumbnail: /thumbnails/robotics_23230_thumbnail.webp
+    websiteURL: https://ftc-events.firstinspires.org/2025/team/23230
+    categories:
+      - Robotics
+      - Highlights
 
